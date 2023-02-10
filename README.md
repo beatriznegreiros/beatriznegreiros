@@ -1,4 +1,4 @@
-Hi there 👋
+Hi! Hallo! Oi!
 
 I am a research associate doing PhD at the [Institute for Modelling Hydraulic and Environmental Systems](https://www.iws.uni-stuttgart.de/en/) (University of Stuttgart) and passionate about programmatic approaches. My interests are on hydro-morphodynamic modelling and spatiotemporal analyses of rivers, which I leverage with fuzzy-based and data-driven methods, web development/scraping, and geospatial Python. My latest projects involved [hypothesis testing of bedload drivers](https://github.com/sschwindt/ms-bedload-seasons) (manuscript under preparation), a novel [fuzzy interpretation of riverbed clogging](https://flusstools.readthedocs.io/en/latest/bedanalyst.html) (manuscript submitted), and performing systematic literature review through hundreds of papers through [web scraping](https://github.com/beatriznegreiros/web-scraping-wos) (manuscript under preparation).
 
