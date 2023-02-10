@@ -5,7 +5,6 @@ I am a research associate doing PhD at the [Institute for Modelling Hydraulic an
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
@@ -18,8 +17,3 @@ I am a research associate doing PhD at the [Institute for Modelling Hydraulic an
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
 
-
----
-
-![](https://github.com/beatriznegreiros/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/beatriznegreiros/github-stats/blob/master/generated/languages.svg)
