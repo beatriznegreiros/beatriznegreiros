@@ -21,4 +21,5 @@ I am a research associate doing PhD at the [Institute for Modelling Hydraulic an
 
 ---
 
-### :fire: My Stats :
+![](https://github.com/beatriznegreiros/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/beatriznegreiros/github-stats/blob/master/generated/languages.svg)
